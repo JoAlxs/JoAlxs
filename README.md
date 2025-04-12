@@ -8,7 +8,7 @@
 🛠️ En mi día a día aplico conocimientos y herramientas como:
 - ⚙️ **PHP**, **Node.js**, **JavaScript**
 - 🔌 **Socket.IO**
-- 🎨 **CSS**, **Bootstrap**, **TailwindCSS**
+- 🎨 **HTML**, **CSS**, **Bootstrap**, **TailwindCSS**
 - 🗄️ **Bases de datos relacionales (SQL)** y **NoSQL**
 
 🚀 En **Academia Global**, nuestro equipo ha trabajado en múltiples proyectos clave,  
