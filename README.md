@@ -1,7 +1,7 @@
 🎓 **Graduado en Ingeniería en Tecnologías de la Información**  
 📍 *Universidad Politécnica de Gómez Palacio*
 
-💼 Actualmente me desempeño como **Desarrollador Web** en [Academia Global](https://www.academiaglobal.com)  
+💼 Actualmente me desempeño como **Desarrollador Web** en [Academia Global](https://www.linkedin.com/company/academiaglobal/posts/?feedView=all)  
 🧠 Aplico mis competencias en:  
 - ⚙️ **PHP**  
 - 🌐 **Node.js**  
