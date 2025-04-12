@@ -1,16 +1,19 @@
-### Hi there 👋
+🎓 **Graduado en Ingeniería en Tecnologías de la Información**  
+📍 *Universidad Politécnica de Gómez Palacio*
 
-<!--
-**JoAlxs/JoAlxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Actualmente me desempeño como **Desarrollador Web** en [Academia Global](https://www.academiaglobal.com)  
+🧠 Aplico mis competencias en:  
+- ⚙️ **PHP**  
+- 🌐 **Node.js**  
+- 💻 **JavaScript**  
 
-Here are some ideas to get you started:
+🚀 En **Academia Global**, nuestro equipo ha colaborado en múltiples proyectos,  
+mejorando la **funcionalidad** y la **eficiencia** de las plataformas digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Gracias a mi experiencia como **becario en ASTA Software**,  
+donde me especialicé en:  
+- 🧱 **Maquetación web**  
+- 📄 **Documentación técnica**  
+
+🔍 Aporto una perspectiva **diversa** y un enfoque **meticuloso** a mi trabajo actual,  
+alineando mis **motivaciones** y **valores** con la cultura de la organización.
