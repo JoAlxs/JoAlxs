@@ -1,18 +1,21 @@
-# 👨‍💻 Desarrollador Web en Academia Global | Desarrollo Web Profesional
+# 👨‍💻 Desarrollador Web
 
 🎓 **Graduado en Ingeniería en Tecnologías de la Información**  
 📍 *Universidad Politécnica de Gómez Palacio*
 
-💼 Actualmente me desempeño como **Desarrollador Web** en [Academia Global](https://www.linkedin.com/company/academiaglobal/posts/?feedView=all), una organización dedicada al desarrollo de **plataformas educativas de alta calidad**, orientadas a mejorar la experiencia de aprendizaje y gestión académica.
+Soy desarrollador web enfocado en la creación de aplicaciones y plataformas digitales escalables, eficientes y bien estructuradas. Me interesa construir soluciones que combinen **buen diseño, rendimiento y arquitectura sólida**.
 
-🛠️ En mi día a día aplico conocimientos y herramientas como:
+## 🛠️ Tecnologías y herramientas
+
 - ⚙️ **PHP**, **Node.js**, **JavaScript**
 - 🔌 **Socket.IO**
 - 🎨 **HTML**, **CSS**, **Bootstrap**, **TailwindCSS**
 - 🗄️ **Bases de datos relacionales (SQL)** y **NoSQL**
 
-🚀 En **Academia Global**, nuestro equipo ha trabajado en múltiples proyectos clave,  
-mejorando la **funcionalidad**, la **escalabilidad** y la **eficiencia** de plataformas digitales educativas.
+## 🚀 Enfoque
 
-🔍 Me enfoco en ofrecer soluciones sólidas, alineadas con los objetivos estratégicos de la organización,  
-aportando una perspectiva **diversa**, un enfoque **meticuloso** y una actitud **colaborativa**.
+Me enfoco en desarrollar software con buenas prácticas, código mantenible y soluciones que aporten valor real a los proyectos. Disfruto aprender nuevas tecnologías, mejorar mis habilidades constantemente y colaborar en proyectos interesantes.
+
+---
+
+💡 Siempre explorando nuevas ideas y construyendo proyectos.
